@@ -1,0 +1,20 @@
+.Links{
+        width: 300px;
+        border: 25px solid lightblue;
+        padding: 25px;
+        margin: 25px;
+        font:black;
+        background: #008000
+      }   
+
+.blue {
+        color:white;
+        background: blue; 
+        text-decoration: none; 
+      }   
+.button {
+    background: red;
+    font: white;
+    border-radius: 3px;
+    padding: 10px;
+    width: 150px}
